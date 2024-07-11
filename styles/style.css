@@ -22,3 +22,24 @@ body {
     margin: 0 auto;
     border: 2px solid red;
 }
+.banner-content {
+    margin: 20px auto;
+    width: 998px;
+    height: 579px;
+}
+.banner-content img {
+    width: 240px;
+    height: 200px;
+    margin-top:24px;
+}
+.button {
+    display: inline-block;
+    padding: 21px;;
+    font-size:20px;
+    color: #ffffff;
+    background-color:#0d1323;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 32px;
+    margin-bottom: 0 auto;
+}
